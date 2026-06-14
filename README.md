@@ -192,7 +192,7 @@ Open `http://localhost:3001/?autoplay=true` to boot straight into autoplay mode,
 
 Vytrix transforms chaotic environmental emergencies into structured tactical intelligence.
 
-- **GitHub Repository:** [Vytrix Source Code](https://github.com/Karan7815/Vytrix)
-- **Live Deployment:** [vytrix-os.net](https://vytrix-os.net)
+- **GitHub Repository:** [Vytrix Source Code](https://github.com/karanscosmo/vytrix)
+- **Live Deployment:** [https://vytrix-next-app.vercel.app](https://vytrix-next-app.vercel.app)
 - **Team Credits:** Developed by the Vytrix Command OS Engineering Team.
 - **License:** MIT License
